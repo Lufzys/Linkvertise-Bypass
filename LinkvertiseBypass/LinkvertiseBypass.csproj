@@ -68,8 +68,8 @@
     <Content Include="LF Big Dock.ico" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json">
-      <Version>13.0.1</Version>
+    <PackageReference Include="System.Text.Json">
+      <Version>6.0.0-preview.1.21102.12</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
